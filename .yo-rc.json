@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:kozubenko/awstry-backend-app.git",
+    "project_destination_path": "awstry-backend-app",
+    "application_name": "awstry",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
